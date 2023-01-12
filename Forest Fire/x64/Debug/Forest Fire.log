@@ -1,0 +1,7 @@
+﻿  Cell.cpp
+  Forest.cpp
+C:\Users\user\Desktop\New folder\Forest Fire\Forest Fire\Forest.cpp(55,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Main.cpp
+C:\Users\user\Desktop\New folder\Forest Fire\Forest Fire\Main.cpp(14,6): warning C4101: 'temp': unreferenced local variable
+  Generating Code...
+  Forest Fire.vcxproj -> C:\Users\user\Desktop\New folder\Forest Fire\x64\Debug\Forest Fire.exe
